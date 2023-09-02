@@ -58,7 +58,7 @@
     "nextstop": 1,
     "chi": "深山站",
     "chisound": "rbxassetid://14654914378",
-    "eng": "Sham Shan Station",
+    "eng": "SHAM SHAN STATION",
     "engsound": "rbxassetid://14654586760",
     "arrtexture": "rbxassetid://13755271179",
     "texture": "rbxassetid://13755272230,rbxassetid://13755272612,rbxassetid://13755272996,rbxassetid://13755273496,rbxassetid://13755274025",
@@ -74,8 +74,8 @@
     "eng": "SHAM SHAN ESTATE",
     "engsound": "rbxassetid://14654914002",
     "arrtexture": "rbxassetid://14655177375",
-    "texture": "rbxassetid://14655177175",
-    "stoptexture": "rbxassetid://14655176990",
+    "texture": "rbxassetid://14655177175,rbxassetid://14655176990",
+    "stoptexture": "rbxassetid://14655177175",
     "notification": 2
   },
   {
@@ -113,8 +113,8 @@
     "eng": "SHAM SHAN STATION",
     "engsound": "rbxassetid://14654913667",
     "arrtexture": "rbxassetid://13817016428",
-    "texture": "rbxassetid://14655176534,rbxassetid://14655176280",
-    "stoptexture": "rbxassetid://14655176034",
+    "texture": "rbxassetid://14655176534,rbxassetid://14655176280,rbxassetid://14655176034",
+    "stoptexture": "rbxassetid://14655176534",
     "notification": 2
   }
 ]
