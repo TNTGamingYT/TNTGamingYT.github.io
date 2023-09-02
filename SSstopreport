@@ -1,0 +1,120 @@
+[
+  {
+    "route": "",
+    "direction": 0,
+    "nextstop": 0,
+    "chi": "歡迎乘搭古拉巴士",
+    "chisound": "",
+    "eng": "Welcome Onboard",
+    "engsound": "",
+    "arrtexture": "rbxassetid://13755271179",
+    "texture": "rbxassetid://13755272230,rbxassetid://13755272612,rbxassetid://13755272996,rbxassetid://13755273496,rbxassetid://13755274025",
+    "stoptexture": "!rbxassetid://13755274576",
+    "notification": 0
+  },
+  {
+    "route": "GB",
+    "direction": 0,
+    "nextstop": 0,
+    "chi": "歡迎乘搭古拉巴士",
+    "chisound": "",
+    "eng": "WELCOME ONBOARD",
+    "engsound": "",
+    "notification": 0
+  },
+  {
+    "route": "GB",
+    "direction": 1,
+    "nextstop": 0,
+    "chi": "歡迎乘搭古拉巴士",
+    "chisound": "",
+    "eng": "WELCOME ONBOARD",
+    "engsound": "",
+    "notification": 0
+  },
+  {
+    "route": "NR720",
+    "direction": 0,
+    "nextstop": 0,
+    "chi": "歡迎乘搭古拉巴士",
+    "chisound": "rbxassetid://",
+    "eng": "WELCOME ONBOARD",
+    "engsound": "",
+    "notification": 0
+  },
+  {
+    "route": "NR720",
+    "direction": 0,
+    "nextstop": 1,
+    "chi": "歡迎乘搭古拉巴士",
+    "chisound": "rbxassetid://",
+    "eng": "WELCOME ONBOARD",
+    "engsound": "rbxassetid://",
+    "notification": 0
+  },
+  {
+    "route": "NR720",
+    "direction": 0,
+    "nextstop": 1,
+    "chi": "深山站",
+    "chisound": "rbxassetid://14654914378",
+    "eng": "Sham Shan Station",
+    "engsound": "rbxassetid://14654586760",
+    "arrtexture": "rbxassetid://13755271179",
+    "texture": "rbxassetid://13755272230,rbxassetid://13755272612,rbxassetid://13755272996,rbxassetid://13755273496,rbxassetid://13755274025",
+    "stoptexture": "!rbxassetid://13755274576",
+    "notification": 0
+  },
+  {
+    "route": "NR720",
+    "direction": 0,
+    "nextstop": 2,
+    "chi": "深山邨",
+    "chisound": "rbxassetid://14654915425",
+    "eng": "SHAM SHAN ESTATE",
+    "engsound": "rbxassetid://14654914002",
+    "arrtexture": "rbxassetid://14655177375",
+    "texture": "rbxassetid://14655177175",
+    "stoptexture": "rbxassetid://14655176990",
+    "notification": 1
+  },
+  {
+    "route": "NR720",
+    "direction": 1,
+    "nextstop": 1,
+    "chi": "深山邨",
+    "chisound": "rbxassetid://14655151326",
+    "eng": "SHAM SHAN ESTATE",
+    "engsound": "rbxassetid://14655151039",
+    "arrtexture": "rbxassetid://13755271179",
+    "texture": "rbxassetid://13755272230,rbxassetid://13755272612,rbxassetid://13755272996,rbxassetid://13755273496,rbxassetid://13755274025",
+    "stoptexture": "!rbxassetid://13755274576",
+    "notification": 0
+  },
+  {
+    "route": "NR720",
+    "direction": 1,
+    "nextstop": 2,
+    "chi": "深山邨深豐樓",
+    "chisound": "rbxassetid://14654913026",
+    "eng": "SHAM FUNG HOUSE\nSHAM SHAN ESTATE",
+    "engsound": "rbxassetid://14654913402",
+    "arrtexture": "rbxassetid://14655178871",
+    "texture": "rbxassetid://14655178600,rbxassetid://14655178387,rbxassetid://14655178148,rbxassetid://14655177866",
+    "stoptexture": "rbxassetid://14655177580",
+    "notification": 1
+  },
+  {
+    "route": "NR720",
+    "direction": 1,
+    "nextstop": 3,
+    "chi": "深山站",
+    "chisound": "rbxassetid://14655176757",
+    "eng": "SHAM SHAN STATION",
+    "engsound": "rbxassetid://14654913667",
+    "arrtexture": "rbxassetid://13817016428",
+    "texture": "rbxassetid://14655176534,rbxassetid://14655176280",
+    "stoptexture": "rbxassetid://14655176034",
+    "notification": 2
+  }
+]
