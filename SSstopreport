@@ -13,7 +13,7 @@
     "notification": 0
   },
   {
-    "route": "GB",
+    "route": "GURA",
     "direction": 0,
     "nextstop": 0,
     "chi": "歡迎乘搭古拉巴士",
@@ -23,7 +23,7 @@
     "notification": 0
   },
   {
-    "route": "GB",
+    "route": "GURA",
     "direction": 1,
     "nextstop": 0,
     "chi": "歡迎乘搭古拉巴士",
@@ -76,7 +76,7 @@
     "arrtexture": "rbxassetid://14655177375",
     "texture": "rbxassetid://14655177175",
     "stoptexture": "rbxassetid://14655176990",
-    "notification": 1
+    "notification": 2
   },
   {
     "route": "NR720",
