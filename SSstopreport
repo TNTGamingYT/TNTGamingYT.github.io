@@ -46,16 +46,6 @@
     "route": "NR720",
     "direction": 0,
     "nextstop": 1,
-    "chi": "歡迎乘搭古拉巴士",
-    "chisound": "rbxassetid://",
-    "eng": "WELCOME ONBOARD",
-    "engsound": "rbxassetid://",
-    "notification": 0
-  },
-  {
-    "route": "NR720",
-    "direction": 0,
-    "nextstop": 1,
     "chi": "深山站",
     "chisound": "rbxassetid://14654914378",
     "eng": "SHAM SHAN STATION",
